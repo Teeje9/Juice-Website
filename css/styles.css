@@ -1,0 +1,40 @@
+.background{
+    background-color: #6d387d;
+}
+.bold{
+    font-weight: bolder;
+    font-size: xx-large;
+    color: antiquewhite;
+}
+body{
+    font-family: Tahoma,Verdana,sans-serif; 
+}
+.Juiceimg{
+    height: 380px ;
+    width: 400px ;
+    margin-left: 50px;
+    
+}
+
+.center{
+   text-align: center;
+   margin: 0 auto;
+}
+.lyric{
+    width: 300px;
+    height: 600px;
+    align-self: center;
+}
+.imagereso{
+    height: 300px;
+    width: 400px;
+}
+.input{
+    width: 300px;
+    height: 30px;
+}
+.submit{
+    width: 170px;
+    height: 20px;
+}
+
